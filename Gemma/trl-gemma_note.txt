@@ -1,0 +1,5 @@
+Activate trl-gamma env commands:
+
+conda init
+source ~/.bashrc
+conda activate /home/jovyan/trl-gemma
